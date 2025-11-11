@@ -91,6 +91,7 @@ for f in frames:
     out.write(f)
 out.release()
 
-print("✅ Clean video ready: bouncing_split_balls_fixed.mp4")
+print("Clean video ready: bouncing_split_balls_fixed.mp4")
 
 Video("bouncing_split_balls_fixed.mp4")
+
